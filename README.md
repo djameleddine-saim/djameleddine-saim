@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Djamel Ediine SAIM</h1>
+<h1 align="center">Hi 👋, I'm Djamel Eddine SAIM</h1>
 <h3 align="center">étudiant a La Plateforme le campus méditerranéen du numérique !</h3>
 
 <h3 align="left">Connect with me:</h3>
