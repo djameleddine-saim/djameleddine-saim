@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Djamel Eddine SAIM</h1>
+<h1 align="center">Bonjour 👋, je suis Djamel Eddine SAIM</h1>
 <h3 align="center">étudiant a La Plateforme le campus méditerranéen du numérique !</h3>
+<h3 align="center">En recherche d'alternance dans les domaines d’intelligences artificielles tels que la data scientist et Data analyst</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
