@@ -29,8 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=djameleddine-saim&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
-![]()
-
 
 [![](https://visitcount.itsvg.in/api?id=djameleddine-saim&icon=5&color=4)](https://visitcount.itsvg.in) 
 
