@@ -14,7 +14,7 @@
 
 
 # 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djameleddine-saim&theme=algolia) <\br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=djameleddine-saim&theme=noctis_minimus) </br>
 ![](https://github-readme-stats.vercel.app/api?username=djameleddine-saim&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djameleddine-saim&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=djameleddine-saim&theme=ayu-mirage&hide_border=false)
