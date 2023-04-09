@@ -15,8 +15,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=djameleddine-saim&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=djameleddine-saim&theme=ayu-mirage&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=djameleddine-saim&theme=ayu-mirage&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=djameleddine-saim&theme=ayu-mirage&hide_border=false)
+
 
 [![](https://visitcount.itsvg.in/api?id=djameleddine-saim&icon=5&color=4)](https://visitcount.itsvg.in) 
 
