@@ -1,3 +1,6 @@
+
+![Header](./![djameleddine-saim](https://user-images.githubusercontent.com/115147662/230782654-8eba175a-273a-48dc-9487-8e42a5d781ed.png))
+
 <h1 align="center">Bonjour, je suis Djamel Eddine SAIM</h1>
 <h3 align="center">étudiant a La Plateforme le campus méditerranéen du numérique !</h3>
 <h3 align="center">En recherche d'alternance dans les domaines d’intelligences artificielles tels que la data scientist et Data analyst</h3>
