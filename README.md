@@ -8,9 +8,8 @@
 
 <h3 align="left">connectez moi:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/djamel-eddine-saim-b28292266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/djamel-eddine-saim-b28292266/"/></a>
-<a href="https://www.facebook.com/people/djamel-addine/pfbid0ahe8emtgzev9kuzdf2phakp5x8fxuxupwfcu2kgwblbwi8wfdjmmfomhahs1crrxl/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="https://www.facebook.com/people/djamel-addine/pfbid0ahe8emtgzev9kuzdf2phakp5x8fxuxupwfcu2kgwblbwi8wfdjmmfomhahs1crrxl/" /></a>
-<a href="https://www.instagram.com/djamelsaim.13/?igshid=ymmymta2m2y%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/djamelsaim.13/?igshid=ymmymta2m2y%3d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/djamel-eddine-saim-b28292266/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
+<a href="mailto:djamel-eddine.saim@laplateforme.io" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <h3 align="left">Langages et outils:</h3>
